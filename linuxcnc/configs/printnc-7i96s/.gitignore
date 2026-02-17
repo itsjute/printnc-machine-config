@@ -1,0 +1,13 @@
+# Auto backups
+backups/
+*.bak
+*.tbl.bak
+
+# GUI state
+*.axis
+halshow.preferences
+autosave.halscope
+position.txt
+
+# Logs
+*.log

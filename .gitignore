@@ -1,0 +1,21 @@
+﻿# Vim
+*.swp
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# LinuxCNC
+*.bak
+*.log
+*.axis
+*.pyc
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temp
+*.tmp
+*.swp

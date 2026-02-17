@@ -1,0 +1,10 @@
+﻿Index,Category,MFR,MPN,Name,Specs,Qty,Revision,Datasheet,Notes
+1,Control,Huanyang,HY02D223B,Variable Frequency Drive,"2.2kW, 220V, 10A, 400Hz",1,r0.1,resources/docs/huanyang_hy02d223b_manual.pdf,
+2,Control,Mesa,7I96S,Ethernet Motion Controller,"FPGA Step/Dir Interface",1,r0.1,resources/docs/7i96sman.pdf,
+3,Drive,STEPPERONLINE,DM542T,Digital Stepper Driver,"1.0-4.5A, 18-50VDC",3,r0.1,,
+4,Spindle,HLTNC,GDZ-80-2.2B,Water Cooled Spindle,"Ø80mm, ER20, 2.2kW, 220V, 8A, 400Hz, 24000rpm",1,r0.1,,
+5,Sensor,RANC/Heschen,LJ8A3-2-Z/AX,Inductive Proximity Switch,"NPN, NC, 2mm, 6-36VDC, 300mA, 3-wire",3,r0.1,resources/docs/000980_Datasheet_Cylinder-Inductive-Proximity-Switch-Series.pdf,
+6,Tooling,Scratchbuilt Designs,Tool Setter,Photoelectric Tool Setter,"PNP, open-collector transistor",1,r0.1,resources/docs/pm-u25-p_datasheet.pdf,
+7,Cabling,igus,CF886.15.04,chainflex motor cable,"4G1.5mm²",1,r0.1,,
+8,Cabling,igus,CF891.07.04,chainflex control cable,"4G0.75mm²",1,r0.1,,
+9,Cabling,igus,CF880.05.12,chainflex control cable,"12G0.5mm²",1,r0.1,,
