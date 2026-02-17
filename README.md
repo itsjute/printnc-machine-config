@@ -12,6 +12,18 @@ The repository is designed to support **multiple LinuxCNC configurations** withi
 
 ---
 
+## Related Projects & Documentation
+
+For broader context on the PrintNC machine design and ecosystem, see:
+
+- **PrintNC main repository** (archived) — https://github.com/threedesigns/printNC  
+  The original open-source CNC machine project and parts repository.
+
+- **PrintNC Wiki (official documentation)** — https://wiki.printnc.info/en/home  
+  Comprehensive guides, build instructions, and documentation for PrintNC.
+
+---
+
 ## Repository Structure
 
 ```
